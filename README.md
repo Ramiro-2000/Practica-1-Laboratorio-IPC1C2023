@@ -44,6 +44,7 @@ public class Practica1{
         
         
         while(!salirCredenciales){
+            System.out.println("Bienvenido a Supermercado SUPER-25");
             System.out.println("Ingrese usuario");
             nomusuario = sn.next();
             System.out.println("Ingrese contraseña");
